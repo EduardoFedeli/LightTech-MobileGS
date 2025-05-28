@@ -1,7 +1,6 @@
-// Arquivo: src/screens/Localizacao.tsx
+
 import React, { useState } from 'react';
 import {
-  View,
   Text,
   TextInput,
   Button,
