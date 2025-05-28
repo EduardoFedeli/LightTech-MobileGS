@@ -1,17 +1,15 @@
-// App.tsx
 import React from 'react';
-import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { RootStackParamList } from './src/navigation/RootStackParamList';
-import Localizacao from './src/screens/Localizacao';
-import Tempo from './src/screens/Tempo';
-import Prejuizos from './src/screens/Prejuizos';
-import Panorama from './src/screens/Panorama';
-import Recomendacoes from './src/screens/Recomendacoes';
+import { NavigationContainer } from '@react-navigation/native';
+import Panorama from './screens/Panorama';
+import Localizacao from './screens/Localizacao';
+import Tempo from './screens/Tempo';
+import Prejuizos from './screens/Prejuizos';
+import Recomendacoes from './screens/Recomendacoes';
 
-const Stack = createNativeStackNavigator<RootStackParamList>();
+const Stack = createNativeStackNavigator();
 
-export default function App() {
+export default function AppNavigator() {
   return (
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Panorama">
