@@ -37,9 +37,3 @@ Abra o app no seu dispositivo com o app Expo Go ou emulador Android/iOS.
 
 💡 Objetivo do projeto
 Este projeto foi desenvolvido como parte de uma atividade acadêmica para simular um sistema de coleta de dados sobre interrupções de energia elétrica em áreas urbanas.
-
-👤 Autor
-Eduardo Fedeli
-
-Github:@EduardoFedeli 
-Instagram:@du.fedeli
