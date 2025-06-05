@@ -1,5 +1,10 @@
 # ⚡ LightTech
 
+Eduardo Fedeli Souza (RM550132)
+Gabriel Torres Luiz (RM98600)
+Otávio Vitoriano Da Silva (RM552012)
+
+
 Aplicativo mobile desenvolvido com **React Native** para registro de interrupções de energia elétrica e seus impactos na comunidade local.
 
 ## 📱 Funcionalidades
